@@ -16,7 +16,6 @@ Link to Terms and Conditions of third-party service providers used by the app
 *   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 *   [Facebook](https://www.facebook.com/legal/terms/plain_text_terms)
 *   [One Signal](https://onesignal.com/tos)
-*   [Adjust](https://www.adjust.com/terms/general-terms-and-conditions)
 *   [Appsflyer](https://www.appsflyer.com/legal/terms-of-use/)
 *   [Chrome](https://www.google.com/chrome/terms/)
 
